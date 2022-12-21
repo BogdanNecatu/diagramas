@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-20T20:06:36.839Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="uD31kw4u-YZrsMLFj5UR" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-21T19:32:03.351Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="LjZNHOTDGv_e6IlGZ3ue" version="20.7.4" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="782" dy="479" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="993" dy="622" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,131 +8,157 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e8ArRw_OcwM4HBcJv57Q-1" value="Pagina incarca" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="170" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="e8ArRw_OcwM4HBcJv57Q-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;strokeColor=default;shadow=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="e8ArRw_OcwM4HBcJv57Q-2" target="e8ArRw_OcwM4HBcJv57Q-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="440" y="80" />
-            </Array>
-            <mxPoint x="560" y="130" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="10" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CppdhaFHmqjqEvkJu7Ff-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e8ArRw_OcwM4HBcJv57Q-2" target="CppdhaFHmqjqEvkJu7Ff-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e8ArRw_OcwM4HBcJv57Q-2" value="Formular de autentificare - baza de date creata anterior" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="380" y="130" width="120" height="60" as="geometry" />
+        <mxCell id="CppdhaFHmqjqEvkJu7Ff-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e8ArRw_OcwM4HBcJv57Q-2" target="e8ArRw_OcwM4HBcJv57Q-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e8ArRw_OcwM4HBcJv57Q-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=default;" parent="1" source="e8ArRw_OcwM4HBcJv57Q-4" target="e8ArRw_OcwM4HBcJv57Q-7" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="750" y="80" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="e8ArRw_OcwM4HBcJv57Q-2" value="Formular de autentificare - baza de date creata anterior" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="160" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CppdhaFHmqjqEvkJu7Ff-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e8ArRw_OcwM4HBcJv57Q-4" target="e8ArRw_OcwM4HBcJv57Q-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e8ArRw_OcwM4HBcJv57Q-4" value="Se conecteaza&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="520" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CppdhaFHmqjqEvkJu7Ff-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e8ArRw_OcwM4HBcJv57Q-7" target="CppdhaFHmqjqEvkJu7Ff-4">
+        <mxCell id="CppdhaFHmqjqEvkJu7Ff-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e8ArRw_OcwM4HBcJv57Q-7" target="CppdhaFHmqjqEvkJu7Ff-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CppdhaFHmqjqEvkJu7Ff-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e8ArRw_OcwM4HBcJv57Q-7" target="CppdhaFHmqjqEvkJu7Ff-24">
+        <mxCell id="CppdhaFHmqjqEvkJu7Ff-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e8ArRw_OcwM4HBcJv57Q-7" target="CppdhaFHmqjqEvkJu7Ff-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CppdhaFHmqjqEvkJu7Ff-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e8ArRw_OcwM4HBcJv57Q-7" target="CppdhaFHmqjqEvkJu7Ff-30">
+        <mxCell id="CppdhaFHmqjqEvkJu7Ff-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e8ArRw_OcwM4HBcJv57Q-7" target="CppdhaFHmqjqEvkJu7Ff-79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e8ArRw_OcwM4HBcJv57Q-7" value="Apare mesaj de confirmare ca este conectat" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="690" y="120" width="120" height="60" as="geometry" />
+        <mxCell id="e8ArRw_OcwM4HBcJv57Q-7" value="Apare mesaj de confirmare ca este conectat" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="360" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CppdhaFHmqjqEvkJu7Ff-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CppdhaFHmqjqEvkJu7Ff-1" target="e8ArRw_OcwM4HBcJv57Q-2">
+        <mxCell id="CppdhaFHmqjqEvkJu7Ff-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CppdhaFHmqjqEvkJu7Ff-1" target="e8ArRw_OcwM4HBcJv57Q-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="180" as="targetPoint" />
+            <mxPoint x="350" y="360" as="targetPoint" />
+            <mxPoint x="330" y="480" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="540" y="290" />
-              <mxPoint x="540" y="160" />
+              <mxPoint x="310" y="450" />
+              <mxPoint x="310" y="350" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="CppdhaFHmqjqEvkJu7Ff-1" value="Eroare conectare" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CppdhaFHmqjqEvkJu7Ff-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CppdhaFHmqjqEvkJu7Ff-4" target="CppdhaFHmqjqEvkJu7Ff-6">
+        <mxCell id="CppdhaFHmqjqEvkJu7Ff-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="CppdhaFHmqjqEvkJu7Ff-10" target="e8ArRw_OcwM4HBcJv57Q-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CppdhaFHmqjqEvkJu7Ff-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CppdhaFHmqjqEvkJu7Ff-4" target="CppdhaFHmqjqEvkJu7Ff-8">
+        <mxCell id="CppdhaFHmqjqEvkJu7Ff-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CppdhaFHmqjqEvkJu7Ff-24" target="CppdhaFHmqjqEvkJu7Ff-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CppdhaFHmqjqEvkJu7Ff-4" value="Primeste intrebare pentru votare" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="690" y="250" width="120" height="60" as="geometry" />
+        <mxCell id="CppdhaFHmqjqEvkJu7Ff-24" value="Formular dinamic&amp;nbsp;&lt;br&gt;pentru propuneri (departamente)" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="20" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CppdhaFHmqjqEvkJu7Ff-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CppdhaFHmqjqEvkJu7Ff-6" target="CppdhaFHmqjqEvkJu7Ff-19">
+        <mxCell id="CppdhaFHmqjqEvkJu7Ff-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CppdhaFHmqjqEvkJu7Ff-26" target="CppdhaFHmqjqEvkJu7Ff-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CppdhaFHmqjqEvkJu7Ff-6" value="Voteaza Da/Nu&lt;br&gt;Timp alocat de 1 min" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="910" y="250" width="120" height="60" as="geometry" />
+        <mxCell id="CppdhaFHmqjqEvkJu7Ff-26" value="Apare lista de membri ai biserici de unde se pot alege din persoanele prezente" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="100" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CppdhaFHmqjqEvkJu7Ff-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" source="CppdhaFHmqjqEvkJu7Ff-19" target="CppdhaFHmqjqEvkJu7Ff-10">
+        <mxCell id="CppdhaFHmqjqEvkJu7Ff-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CppdhaFHmqjqEvkJu7Ff-28" target="CppdhaFHmqjqEvkJu7Ff-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CppdhaFHmqjqEvkJu7Ff-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CppdhaFHmqjqEvkJu7Ff-8" target="CppdhaFHmqjqEvkJu7Ff-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CppdhaFHmqjqEvkJu7Ff-8" value="Nu voteaza timp de 1 min si conteaza ca ambtinere" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="350" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CppdhaFHmqjqEvkJu7Ff-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CppdhaFHmqjqEvkJu7Ff-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="690" y="150" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1160" y="450" />
-              <mxPoint x="630" y="450" />
-              <mxPoint x="630" y="150" />
-              <mxPoint x="690" y="150" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CppdhaFHmqjqEvkJu7Ff-10" value="Apare rezultatul votului" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="350" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CppdhaFHmqjqEvkJu7Ff-19" value="Se blocheaza optiunile de vot dupa 1 min" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="350" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CppdhaFHmqjqEvkJu7Ff-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CppdhaFHmqjqEvkJu7Ff-24" target="CppdhaFHmqjqEvkJu7Ff-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CppdhaFHmqjqEvkJu7Ff-24" value="Formular dinamic&amp;nbsp;&lt;br&gt;pentru propuneri (1/2/3...propuneri)" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="10" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CppdhaFHmqjqEvkJu7Ff-26" value="Apare lista de membri ai biserici de unde se pot alege persoane" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="20" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CppdhaFHmqjqEvkJu7Ff-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CppdhaFHmqjqEvkJu7Ff-28" target="CppdhaFHmqjqEvkJu7Ff-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CppdhaFHmqjqEvkJu7Ff-28" value="Apar toate departamentele bisericii si se pot propune persoane" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" width="120" height="60" as="geometry" />
+        <mxCell id="CppdhaFHmqjqEvkJu7Ff-28" value="Apar toate departamentele bisericii si se pot propune persoane din baza de date" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="20" width="150" height="62" as="geometry" />
         </mxCell>
         <mxCell id="CppdhaFHmqjqEvkJu7Ff-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CppdhaFHmqjqEvkJu7Ff-30" target="CppdhaFHmqjqEvkJu7Ff-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CppdhaFHmqjqEvkJu7Ff-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CppdhaFHmqjqEvkJu7Ff-30" target="CppdhaFHmqjqEvkJu7Ff-39">
+        <mxCell id="CppdhaFHmqjqEvkJu7Ff-30" value="Formular propunere de 3 nume pentru comitetul special" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CppdhaFHmqjqEvkJu7Ff-39" value="Propunere pentru comitetul de numiri" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CppdhaFHmqjqEvkJu7Ff-53" value="Pt fiecare departament se face ranking de propuneri" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CppdhaFHmqjqEvkJu7Ff-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CppdhaFHmqjqEvkJu7Ff-58" target="CppdhaFHmqjqEvkJu7Ff-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CppdhaFHmqjqEvkJu7Ff-30" value="Propunere de 3 nume pentru comitetul special" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="950" y="140" width="120" height="60" as="geometry" />
+        <mxCell id="CppdhaFHmqjqEvkJu7Ff-58" value="Se face rankingul propunerilor si se da timp contestatiilor" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CppdhaFHmqjqEvkJu7Ff-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.637;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CppdhaFHmqjqEvkJu7Ff-39" target="CppdhaFHmqjqEvkJu7Ff-4">
+        <mxCell id="CppdhaFHmqjqEvkJu7Ff-64" value="Se elaboreaza rankingul final Comitetul special" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CppdhaFHmqjqEvkJu7Ff-67" value="Comitetul de numiri prezinta o list" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CppdhaFHmqjqEvkJu7Ff-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CppdhaFHmqjqEvkJu7Ff-69" target="CppdhaFHmqjqEvkJu7Ff-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CppdhaFHmqjqEvkJu7Ff-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CppdhaFHmqjqEvkJu7Ff-69" target="CppdhaFHmqjqEvkJu7Ff-30">
+          <mxGeometry x="0.5" y="-40" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="130" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CppdhaFHmqjqEvkJu7Ff-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.452;entryY=-0.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CppdhaFHmqjqEvkJu7Ff-69" target="CppdhaFHmqjqEvkJu7Ff-73">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1340" y="210" />
-              <mxPoint x="766" y="210" />
+              <mxPoint x="320" y="50" />
+              <mxPoint x="320" y="530" />
+              <mxPoint x="518" y="530" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CppdhaFHmqjqEvkJu7Ff-39" value="Propunere pentru comitetul de numiri" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="140" width="120" height="60" as="geometry" />
+        <mxCell id="CppdhaFHmqjqEvkJu7Ff-69" value="Versiune pentru intreaga biserica" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CppdhaFHmqjqEvkJu7Ff-76" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="360" y="570" width="350" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="CppdhaFHmqjqEvkJu7Ff-4" value="Primeste intrebare pentru votare" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="CppdhaFHmqjqEvkJu7Ff-76">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CppdhaFHmqjqEvkJu7Ff-6" value="Voteaza Da/Nu&lt;br&gt;Timp alocat de 1 min" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;gradientColor=none;" vertex="1" parent="CppdhaFHmqjqEvkJu7Ff-76">
+          <mxGeometry x="200" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CppdhaFHmqjqEvkJu7Ff-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CppdhaFHmqjqEvkJu7Ff-76" source="CppdhaFHmqjqEvkJu7Ff-4" target="CppdhaFHmqjqEvkJu7Ff-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CppdhaFHmqjqEvkJu7Ff-8" value="Nu voteaza timp de 1 min si conteaza ca ambtinere" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="CppdhaFHmqjqEvkJu7Ff-76">
+          <mxGeometry x="20" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CppdhaFHmqjqEvkJu7Ff-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CppdhaFHmqjqEvkJu7Ff-76" source="CppdhaFHmqjqEvkJu7Ff-4" target="CppdhaFHmqjqEvkJu7Ff-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CppdhaFHmqjqEvkJu7Ff-10" value="Apare rezultatul votului" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="CppdhaFHmqjqEvkJu7Ff-76">
+          <mxGeometry x="200" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CppdhaFHmqjqEvkJu7Ff-19" value="Se blocheaza optiunile de vot dupa 1 min" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="CppdhaFHmqjqEvkJu7Ff-76">
+          <mxGeometry x="200" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CppdhaFHmqjqEvkJu7Ff-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="CppdhaFHmqjqEvkJu7Ff-76" source="CppdhaFHmqjqEvkJu7Ff-6" target="CppdhaFHmqjqEvkJu7Ff-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CppdhaFHmqjqEvkJu7Ff-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="CppdhaFHmqjqEvkJu7Ff-76" source="CppdhaFHmqjqEvkJu7Ff-8" target="CppdhaFHmqjqEvkJu7Ff-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CppdhaFHmqjqEvkJu7Ff-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="CppdhaFHmqjqEvkJu7Ff-76" source="CppdhaFHmqjqEvkJu7Ff-19" target="CppdhaFHmqjqEvkJu7Ff-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CppdhaFHmqjqEvkJu7Ff-73" value="Proces de Votare" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="CppdhaFHmqjqEvkJu7Ff-76">
+          <mxGeometry width="350" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="CppdhaFHmqjqEvkJu7Ff-77" value="Versiune prentru Comitetul Special" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CppdhaFHmqjqEvkJu7Ff-79" value="Versiune pentru Comitetulde Numiri" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
