@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-27T16:35:03.919Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="lilIedkCQZ4kLemGpp3_" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-27T16:37:32.547Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="eh5LpohMV7VH3ehTWe4M" version="20.7.4" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="844" dy="529" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1206" dy="756" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,7 +60,11 @@
           <mxGeometry x="520" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CppdhaFHmqjqEvkJu7Ff-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CppdhaFHmqjqEvkJu7Ff-26" target="CppdhaFHmqjqEvkJu7Ff-58" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1020" y="130" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="CppdhaFHmqjqEvkJu7Ff-26" value="Apare lista de membri ai biserici de unde se pot alege din persoanele prezente" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="100" width="160" height="60" as="geometry" />
@@ -80,46 +84,47 @@
         <mxCell id="CppdhaFHmqjqEvkJu7Ff-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CppdhaFHmqjqEvkJu7Ff-39" target="CppdhaFHmqjqEvkJu7Ff-73" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="880" y="730" />
+              <mxPoint x="800" y="600" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="CppdhaFHmqjqEvkJu7Ff-39" value="Propunere pentru comitetul de numiri prezentata bisericii" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="820" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="730" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BHnLyTxGF9Abz34kXASD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CppdhaFHmqjqEvkJu7Ff-53" target="BHnLyTxGF9Abz34kXASD-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="950" y="370" />
+              <mxPoint x="930" y="350" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="CppdhaFHmqjqEvkJu7Ff-53" value="Pt fiecare departament se face ranking din toate propunerile" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="880" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="860" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CppdhaFHmqjqEvkJu7Ff-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CppdhaFHmqjqEvkJu7Ff-58" target="CppdhaFHmqjqEvkJu7Ff-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CppdhaFHmqjqEvkJu7Ff-58" value="Se face rankingul propunerilor si se da timp contestatiilor" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="970" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="960" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CppdhaFHmqjqEvkJu7Ff-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CppdhaFHmqjqEvkJu7Ff-64" edge="1">
           <mxGeometry x="0.0212" y="120" relative="1" as="geometry">
             <mxPoint x="710" y="790" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1030" y="790" />
+              <mxPoint x="1020" y="660" />
+              <mxPoint x="710" y="660" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CppdhaFHmqjqEvkJu7Ff-64" value="Se elaboreaza rankingul final Comitetul special" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="970" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="960" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CppdhaFHmqjqEvkJu7Ff-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CppdhaFHmqjqEvkJu7Ff-67" target="CppdhaFHmqjqEvkJu7Ff-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CppdhaFHmqjqEvkJu7Ff-67" value="Comitetul de numiri prezinta o list pt Comitetul de Numiri" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="820" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="730" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CppdhaFHmqjqEvkJu7Ff-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CppdhaFHmqjqEvkJu7Ff-69" target="CppdhaFHmqjqEvkJu7Ff-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -136,7 +141,7 @@
           <mxGeometry x="360" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CppdhaFHmqjqEvkJu7Ff-76" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="360" y="570" width="350" height="320" as="geometry" />
+          <mxGeometry x="360" y="500" width="350" height="320" as="geometry" />
         </mxCell>
         <mxCell id="CppdhaFHmqjqEvkJu7Ff-4" value="Primeste intrebare pentru votare" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="CppdhaFHmqjqEvkJu7Ff-76" vertex="1">
           <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
@@ -181,13 +186,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CppdhaFHmqjqEvkJu7Ff-79" value="Versiune pentru Comitetul de Numiri" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BHnLyTxGF9Abz34kXASD-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BHnLyTxGF9Abz34kXASD-1" target="BHnLyTxGF9Abz34kXASD-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BHnLyTxGF9Abz34kXASD-1" value="Se voteaza si propune cate o persoana pentru fiecare departament" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BHnLyTxGF9Abz34kXASD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CppdhaFHmqjqEvkJu7Ff-73" target="CppdhaFHmqjqEvkJu7Ff-79">
           <mxGeometry relative="1" as="geometry" />
@@ -196,7 +201,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BHnLyTxGF9Abz34kXASD-7" value="Se da timp de discutie si se fac propuneri de vot" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
