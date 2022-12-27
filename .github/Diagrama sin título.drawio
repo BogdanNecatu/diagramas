@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-27T16:41:12.593Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="cO--O4xk9jGth4vByJ1U" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-27T16:43:53.241Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="T7wdmcYX_QNIZA43qQfl" version="20.7.4" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="993" dy="622" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2813" dy="1590" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,7 +85,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CppdhaFHmqjqEvkJu7Ff-39" value="Propunere pentru comitetul de numiri prezentata bisericii" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" parent="1" vertex="1">
+        <mxCell id="CppdhaFHmqjqEvkJu7Ff-39" value="Propunerea pentru Comitetul de Numiri prezentata bisericii" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BHnLyTxGF9Abz34kXASD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CppdhaFHmqjqEvkJu7Ff-53" target="BHnLyTxGF9Abz34kXASD-1">
@@ -119,7 +119,7 @@
         <mxCell id="CppdhaFHmqjqEvkJu7Ff-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CppdhaFHmqjqEvkJu7Ff-67" target="CppdhaFHmqjqEvkJu7Ff-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CppdhaFHmqjqEvkJu7Ff-67" value="Comitetul de numiri prezinta o list pt Comitetul de Numiri" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" parent="1" vertex="1">
+        <mxCell id="CppdhaFHmqjqEvkJu7Ff-67" value="Comitetul de Special propune o lista pt Comitetul de Numiri" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CppdhaFHmqjqEvkJu7Ff-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CppdhaFHmqjqEvkJu7Ff-69" target="CppdhaFHmqjqEvkJu7Ff-24" edge="1">
